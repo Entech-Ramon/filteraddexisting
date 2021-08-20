@@ -15,5 +15,7 @@ Created by [Paul Nieuwelaar](http://paulnieuwelaar.wordpress.com) - [@paulnz1](h
 Sponsored by [Magnetism Solutions - Dynamics CRM Specialists](http://www.magnetismsolutions.com)
 
 
-Replated Post
+Replated Posts
 https://blog.magnetismsolutions.com/blog/paulnieuwelaar/2018/5/17/filter-n-n-add-existing-lookup-dynamics-365-v9-supported-code#comment-4975973013
+
+https://powerusers.microsoft.com/t5/Microsoft-Dataverse/Select-multiple-items-from-a-lookup-field/td-p/606899
